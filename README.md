@@ -3,8 +3,6 @@
 A mobile-first **relocation checklist app** for foreign residents settling into life in Japan.  
 Built as a portfolio piece for new-grad engineering applications in Japan.
 
-**[→ Live demo](https://tadaima.vercel.app)**
-
 ---
 
 ## The problem
