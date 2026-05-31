@@ -69,9 +69,11 @@ becomes the region-branching logic.
 ## Notes for whoever builds next
 
 - Region-specific values in `byRegion` (office names, garbage rules) are placeholders — verify
-- <img width="423" height="481" alt="image" src="https://github.com/user-attachments/assets/36ea7df7-ce0d-42e0-97c9-ba29a6b3f818" />
 
   against official Shibuya / Hachioji sources before final demo.
 - Common fields are based on real research and can be used as-is.
 - Deploy target: Vercel. README in English: problem → who it's for → key features →
   tech choices → one-line scaling plan.
+
+  <img width="423" height="481" alt="image" src="https://github.com/user-attachments/assets/6b68c684-0156-4480-ae48-b3b05e8c3d53" />
+
