@@ -1,8 +1,7 @@
 # Tadaima — project brief
 
 A mobile-first **consulting checklist app** that helps foreign residents settle into life in Japan,
-with **region-specific** guidance. UI language is **English**. Built as a portfolio piece for new-grad
-engineering applications in Japan. Stack: **React + Vite** (JavaScript).
+with **region-specific** guidance. UI language is **English**. Stack: **React + Vite** (JavaScript).
 
 ## Core idea
 
