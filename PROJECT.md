@@ -65,11 +65,6 @@ becomes the region-branching logic.
    gotcha warning box, region office info, + a "Tips from others" section. (next)
 4. **Tips feed** — separate tab; global living tips with tag filters. (planned)
 
-## Scope (frozen — do not expand)
-
-Demo only. **No real backend / login / DB.** Tips are seed data in JSON; the "add tip" UI writes
-to local state only (resets on refresh). Region-specific data filled for the 2 demo regions only.
-Goal: a working, deployable demo + a README that doubles as the interview script.
 
 ## Notes for whoever builds next
 
